@@ -1,0 +1,12 @@
+{
+  "name": "-caesar-cipher",
+  "version": "1.0.0",
+  "description": "Create a module that exports the caesar13 function using ES6 Modules. This function has as a parameter\r accept a string of characters and then return an encrypted one in accordance with ROT13.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
